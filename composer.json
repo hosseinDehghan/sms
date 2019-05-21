@@ -1,0 +1,13 @@
+{
+    "name": "hosein/sms",
+    "description": "this is package sms",
+    "require": {
+        "ipecompany/smsirlaravel": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "HosseinDehghan",
+            "email": "h.dehghan72@yahoo.com"
+        }
+    ]
+}
